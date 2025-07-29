@@ -1,1 +1,1 @@
-This repo contains documentation for: AWS Backup, AWS Pushing CW logs to S3 bucket using event bridge and Lambda, Installing and configuring CW agents, Creating CW dashboards, Creating CW alarms, AWS Patch manager configuration.
+This repo contains documentation for: AWS Backup, Pushing CW logs to S3 bucket using event bridge and Lambda, Installing and configuring CW agents, Creating CW dashboards, CW alarms, AWS Patch manager configuration.
